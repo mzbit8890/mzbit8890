@@ -1,8 +1,8 @@
 👋 Hi, I’m 𝐒𝐚𝐧𝐚 𝐙𝐚𝐡𝐢𝐝 (@mzbit8890), a passionate Full-Stack Web Developer and Generative AI Engineer. I specialize in building dynamic and responsive web applications using cutting-edge technologies such as React, Node.js, and Next.js. With over three years of professional experience, I have a proven track record of revamping websites to optimize user experience and significantly boost sales.
 
 
- 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞: 
-👀 Interests: Web Development, Generative AI, Microservices Architecture
+  ### **About Me:** 
+- 👀 Interests: Web Development, Generative AI, Microservices Architecture<br/>
 🌱 Currently Learning: Cloud Native Technologies (Kubernetes)
 💞️ Looking to Collaborate On: Challenging Web Projects, Open-Source Contributions
 

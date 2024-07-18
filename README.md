@@ -2,9 +2,7 @@
 
 
 ### **About Me:** 
-- 👀 Interests: Web Development, Generative AI, Microservices Architecture<br/>
-- 🌱 Currently Learning: Cloud Native Technologies (Kubernetes)<br/>
-- 💞️ Looking to Collaborate On: Challenging Web Projects, Open-Source Contributions<br/>
+- 👀 Interests: Web Development, Generative AI, Microservices Architecture..
 
 ### **🌱 Currently Learning:**
 Delving into Cloud Native Technologies, with a focus on Kubernetes to enhance scalability and orchestration in modern web applications.

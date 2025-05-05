@@ -11,10 +11,6 @@ Delving into Cloud Native Technologies, with a focus on Kubernetes to enhance sc
 - Challenging Web Projects: Excited to take on complex and innovative web development projects that push the boundaries of what's possible.<br/>
 - Open-Source Contributions: Passionate about contributing to open-source communities and helping build tools that benefit developers worldwide.
 
-### **📫 Connect With Me:**
-- Email: sanazahid408@gmail.com<br/>
-- LinkedIn: https://www.linkedin.com/in/fullstackwebdevelopersanazahid
-
 ### **⚡ Fun Fact:**
 Did you know? My website redesigns have not only enhanced user experiences but also resulted in a remarkable increase in sales for multiple companies. One client saw a 39% boost in conversions within just a month of the revamp!
 

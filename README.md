@@ -1,11 +1,4 @@
-👋 Hi, I’m a passionate Full-Stack Web Developer and Generative AI Engineer. I specialize in building dynamic and responsive web applications using cutting-edge technologies such as React, Node.js, and Next.js. With over three years of professional experience, I have a proven track record of revamping websites to optimize user experience and significantly boost sales.
-
-
-### **About Me:** 
-- 👀 Interests: Web Development, Generative AI, Microservices Architecture..
-
-### **🌱 Currently Learning:**
-Delving into Cloud Native Technologies, with a focus on Kubernetes to enhance scalability and orchestration in modern web applications.
+👋 Hi, I’m a passionate Full-Stack Web Developer and Generative AI Engineer. I specialize in building dynamic and responsive AI-powered web applications using cutting-edge technologies. I have a proven track record of revamping websites to optimize user experience and significantly boost sales.
 
 ### **💞️ Looking to Collaborate On:**
 - Challenging Web Projects: Excited to take on complex and innovative web development projects that push the boundaries of what's possible.<br/>
